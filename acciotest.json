@@ -1,0 +1,4 @@
+{
+  "testRepo": "fahrenheit-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
